@@ -1,5 +1,3 @@
-# from collections import defaultdict
-
 def log_grouping(logs: list):
     grouped_logs = {}
 
